@@ -13,7 +13,7 @@ This project automates the provisioning of AWS infrastructure using Terraform. I
  git clone https://github.com/folaaramide/automate-end-to-end-aws-infra-terraform.git
 2. Change directory:
  cd automate-end-to-end-aws-infra-terraform/terraform
-3. Initialize Terraform:
+3. Initialise Terraform:
  terraform init
 4. Review the plan:
  terraform plan
