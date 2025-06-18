@@ -22,7 +22,7 @@ This project automates the provisioning of AWS infrastructure using Terraform. I
 6. Verify your infrastructure in AWS Console.
 
 ## Architecture
-![Architecture Diagram](./docs//architecture-diagram/architecture-diagram.png)
+![Architecture Diagram](./docs//architecture/architecture-diagram.png)
 
 ## Screenshots
 
