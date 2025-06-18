@@ -34,6 +34,3 @@ This project automates the provisioning of AWS infrastructure using Terraform. I
 
 ### NGINX Running on EC2
 ![NGINX on EC2](./docs/screenshots/nginx-ec2.png)
-
-### subnets
-![NGINX on EC2](./docs/screenshots/subnets.png)
